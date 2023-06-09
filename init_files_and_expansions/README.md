@@ -1,1 +1,1 @@
-Week 3 Linux
+Shell, init files, variables and expansions
